@@ -1,0 +1,38 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 10%;
+  margin-left: 25%;
+  height: 15em;
+  width: 50%;
+  background: grey;
+  border: 6px ridge black;
+  box-shadow: 0 0 5px rgb(0, 0, 0);
+  display: flex;
+  overflow: hidden;
+}
+
+.vertical {
+  width: 100%;
+  height: 100%;
+  background: white;
+}
+
+.pixel {
+  height: 30px;
+  width: 30%;
+}
+
+.blanc {
+  background: white;
+  height: 50%;
+  border: 1px solid black;
+}
+
+.black {
+  background: black;
+  height: 50%;
+}
